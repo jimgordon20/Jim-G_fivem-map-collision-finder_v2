@@ -1,6 +1,6 @@
 # Jim-G FiveM Map Collision Checker
 
-A simple, interactive Python utility to scan your FiveM `resources` folder for file conflicts and redundant duplicates among map-related files. Finding these collisions is crucial for debugging map load errors, broken collisions, and invisible map elements.
+A simple, interactive .bat utility to scan your FiveM `resources` folder for file conflicts and redundant duplicates among map-related files. Finding these collisions is crucial for debugging map load errors, broken collisions, and invisible map elements.
 
 The generated HTML report includes a **"Copy Dir"** button to instantly grab the directory path of a conflicting file, speeding up the fix process.
 
