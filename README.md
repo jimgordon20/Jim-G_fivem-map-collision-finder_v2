@@ -22,7 +22,7 @@ pip install colorama tqdm
 
 jim_g_collision_checker.py (The Python script)
 
-Check_FiveM_Resources.bat (The launch file)
+jim_g_collision_checker.bat (The launch file)
 
 2. Placement: Ensure both files are saved in the same folder.
 
