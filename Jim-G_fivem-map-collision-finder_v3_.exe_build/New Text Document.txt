@@ -1,0 +1,2 @@
+open cmd in folder run:
+python -m PyInstaller --onefile --windowed jim_g_collision_gui.py
